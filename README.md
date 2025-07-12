@@ -52,5 +52,5 @@
 ### 📊 My Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByAyushShivam&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByAyushShivam&layout=normal&theme=github_dark&langs_count=8" />
 </p>
