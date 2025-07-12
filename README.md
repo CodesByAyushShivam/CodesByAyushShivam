@@ -16,7 +16,7 @@
 - 🧑‍💻 I'm currently working on real-world Python projects to sharpen my skills.
 - 🛠️ I love building applications using **Python**, **HTML**, and **CSS**.
 - 🌱 Learning every day, growing one project at a time.
-- 📂 My goal is to build a solid developer portfolio before placements.
+- 📂 My goal is to master my skills with real life problem solving projects.
 
 ---
 
