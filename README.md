@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Ayush Shivam 👋</h1>
+<h1 align="center">Hey there, I'm Ayush Shivam 👋</h1> 
 <p align="center">
   🚀 A passionate Python Developer | 🧠 Lifelong Learner | 💡 Problem Solver
 </p>
@@ -19,19 +19,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=orange" />
-  <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-CSS5-333?style=for-the-badge&logo=css3&logoColor=blue" />
 </p>
-
----
-
-### 📁 Project Showcase
-
-Here are some cool projects I've built with Python 👇
-
-- 🔫 [Snake Water Gun Game](https://github.com/CodesByAyushShivam/Python-Projects/tree/main/Snake%20Water%20Gun%20Game)
-- 🔜 More coming soon...
-
-> 📝 *All projects are organized inside the [Python-Projects](https://github.com/CodesByAyushShivam/Python-Projects) repo*
 
 ---
 
