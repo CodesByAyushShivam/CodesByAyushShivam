@@ -17,9 +17,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://i.ibb.co/CpBPfkcJ/python-icon-transparent-background-free-png.webp" />
-  <img src="https://i.ibb.co/jPMPrdcc/5968267.png" />
-  <img src="https://i.ibb.co/HDH3LrXz/css3-512.webp" />
+  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/-CSS5-333?style=for-the-badge&logo=css3&logoColor=blue" />
 </p>
 
 ---
