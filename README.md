@@ -5,6 +5,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesByAyushShivam&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+---
+
 ### 💼 About Me
 
 - 🧑‍💻 I'm currently working on real-world Python projects to sharpen my skills.
@@ -40,12 +46,6 @@
 ### ⚡ Fun Fact
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodesByAyushShivam&show_icons=true&theme=radical&count_private=true" />
-</p>
 
 ---
 
