@@ -27,10 +27,10 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:ayushshivam7245@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://telegram.me/ElderflameX" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
