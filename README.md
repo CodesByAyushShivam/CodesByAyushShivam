@@ -43,9 +43,10 @@
 
 ---
 
-### ⚡ Fun Fact
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+### ⚡ Daily Quote
+<center>
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</center>
 
 ---
 
