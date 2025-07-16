@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodesByAyushShivam&show_icons=true&theme=github_dark&count_private=true%22%20%3E%20assets/ayush.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesByAyushShivam&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=CodesByAyushShivam&theme=github_dark&hide_border=true" />
