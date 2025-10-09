@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=orange" />
   <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-C-333?style=for-the-badge&logo=C&logoColor=blue" />
 </p>
 
 ---
