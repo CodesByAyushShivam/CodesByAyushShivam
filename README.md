@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Ayush Shivam 👋</h1> 
 <p align="center">
-  🚀 A passionate Python Developer | 🧠 Lifelong Learner | 💡 Problem Solver
+  🚀 A passionate Developer | 🧠 Lifelong Learner | 💡 Problem Solver
 </p>
 
 ---
@@ -13,8 +13,8 @@
 
 ### 💼 About Me
 
-- 🧑‍💻 I'm currently working on real-world Python projects to sharpen my skills.
-- 🛠️ I love building applications using **Python**, **HTML**, and **CSS**.
+- 🧑‍💻 I'm currently working on Python and C language projects to sharpen my skills.
+- 🛠️ I love building applications using **C**, **Python**, **HTML**, and **CSS**.
 - 🌱 Learning every day, growing one project at a time.
 - 📂 My goal is to master my skills with real life problem solving projects.
 
