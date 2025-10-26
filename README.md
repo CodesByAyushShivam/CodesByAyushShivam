@@ -40,6 +40,9 @@
   <a href="https://telegram.me/ElderflameX" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
+  <a href="https://instagram.com/ayush_._shivam">
+    <img src="https://img.shields.io/badge/Instagram-F9068C?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
