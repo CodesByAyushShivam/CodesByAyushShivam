@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CodesByAyushShivam&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=CodesByAyushShivam&theme=github_dark&hide_border=false" />
 </p>
 
 ---
@@ -61,5 +61,5 @@
 ### 📊 My Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByAyushShivam&layout=normal&theme=github_dark&langs_count=8" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodesByAyushShivam&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
