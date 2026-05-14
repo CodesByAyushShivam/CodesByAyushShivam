@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodesByAyushShivam&theme=neon-dark&border_radius=50&card_height=199&stroke=EB5454" />
+  <img src="https://streak-stats.demolab.com?user=CodesByAyushShivam&theme=neon-dark&border_radius=30&card_height=199&stroke=EB5454" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ### ⚡ Daily Quote
 <p align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&hide_border=true" />
+   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&hide_border=true" />
 </p>
 
 ---
