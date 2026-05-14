@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CodesByAyushShivam&theme=github_dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=CodesByAyushShivam&theme=neon-dark&border_radius=50&card_height=199&stroke=EB5454" />
 </p>
 
 ---
