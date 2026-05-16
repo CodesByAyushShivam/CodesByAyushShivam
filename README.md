@@ -45,7 +45,7 @@
   <a href="https://instagram.com/ayush_._shivam">
     <img src="https://img.shields.io/badge/Instagram-F9068C?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/ayush_._shivam](http://www.linkedin.com/in/ayush-shivam-36as7245)">
+  <a href="http://www.linkedin.com/in/ayush-shivam-36as7245">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDUxMiA1MTIiPjxnPjxyZWN0IHk9IjE2MCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjsiIHdpZHRoPSIxMTQuNDk2IiBoZWlnaHQ9IjM1MiIvPjxwYXRoIHN0eWxlPSJmaWxsOiNGRkZGRkY7IiBkPSJNNDI2LjM2OCwxNjQuMTI4Yy0xLjIxNi0wLjM4NC0yLjM2OC0wLjgtMy42NDgtMS4xNTJjLTEuNTM2LTAuMzUyLTMuMDcyLTAuNjQtNC42NC0wLjg5NmMtNi4wOC0xLjIxNi0xMi43MzYtMi4wOC0yMC41NDQtMi4wOGwwLDBsMCwwYy02Ni43NTIsMC0xMDkuMDg4LDQ4LjU0NC0xMjMuMDQsNjcuMjk2VjE2MEgxNjB2MzUyaDExNC40OTZWMzIwYzAsMCw4Ni41MjgtMTIwLjUxMiwxMjMuMDQtMzJjMCw3OS4wMDgsMCwyMjQsMCwyMjRINTEyVjI3NC40NjRDNTEyLDIyMS4yOCw0NzUuNTUyLDE3Ni45Niw0MjYuMzY4LDE2NC4xMjh6Ii8+PGNpcmNsZSBzdHlsZT0iZmlsbDojRkZGRkZGOyIgY3g9IjU2IiBjeT0iNTYiIHI9IjU2Ii8+PC9nPjwvc3ZnPg==&logoColor=white" />
   </a>
 </p>
