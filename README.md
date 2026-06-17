@@ -23,13 +23,13 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 </p>
 
 ---
