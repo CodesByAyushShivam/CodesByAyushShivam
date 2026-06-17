@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=yellow" />
   <img src="https://img.shields.io/badge/-C-333?style=for-the-badge&logo=C&logoColor=blue" />
   <img src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 </p>
 
 ---
