@@ -30,6 +30,10 @@
 <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=A8B9CC" />
 <img src="https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/NumPy-1E1E1E?style=for-the-badge&logo=numpy&logoColor=4D77CF" />
+<img src="https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=FFCA00" />
+<img src="https://img.shields.io/badge/Matplotlib-1E1E1E?style=for-the-badge&logo=python&logoColor=FFA466" />
+<img src="https://img.shields.io/badge/Seaborn-1E1E1E?style=for-the-badge&logo=python&logoColor=4C72B0" />
 </p>
 
 ---
