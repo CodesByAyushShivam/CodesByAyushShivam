@@ -34,8 +34,8 @@
 <img src="https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=FFCA00" />
 <img src="https://img.shields.io/badge/Matplotlib-1E1E1E?style=for-the-badge&logo=python&logoColor=FFA466" />
 <img src="https://img.shields.io/badge/Seaborn-1E1E1E?style=for-the-badge&logo=python&logoColor=4C72B0" />
+<img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi&logoColor=009688" />
 </p>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
 
 ---
 
